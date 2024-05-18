@@ -1,0 +1,5 @@
+const fs = require('fs')
+const path = require('path')
+const a = fs.readFileSync(path.join(__dirname,"exJSON.json"))
+const b = JSON.parse(a)
+console.log(b)
