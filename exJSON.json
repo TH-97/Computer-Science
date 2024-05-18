@@ -1,5 +1,8 @@
-{
+[{
   "name" : "yoon",
-  "name" : "Teahun",
   "age" : 30
-}
+},
+{
+  "name" : "kim",
+  "age" : 25
+}]
