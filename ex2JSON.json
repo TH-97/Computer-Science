@@ -8,5 +8,10 @@
     "name" : "하울의 움직이는 성",
     "song" : "세계의 약속"
   }
-]
+],
+  "디즈니OST리스트":
+  [
+    {"name":"주토피아", "song" : "Try Everything"},
+    {"name":"겨울왕국", "song" : "Snow yourself"}
+  ]
 }
